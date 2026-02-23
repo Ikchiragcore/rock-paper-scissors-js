@@ -2,9 +2,8 @@
 
 A fully interactive Rock Paper Scissors game with a clean UI, image icons, and score tracking.
 
-/## 🚀 Live Demo
-
-👉 https://ikchiragcore.github.io/rock-paper-scissors-js/
+## 🔗 Live Demo
+[👉 Play Tic-Tac-Toe Live Here](https://ikchiragcore.github.io/rock-paper-scissors-js/)
 
 ## 🛠️ Features
 * **Win/Loss Logic:** Real-time calculation of game results.
